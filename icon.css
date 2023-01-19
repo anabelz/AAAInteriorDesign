@@ -1,0 +1,176 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/IcoMoon/');
+    src: url('fonts/IcoMoon/#iefix') format('embedded-opentype'),
+      url('fonts/IcoMoon/icomoon.ttf?n47lb') format('truetype'),
+      url('fonts/IcoMoon/icomoon.woff?n47lb') format('woff'),
+      url('fonts/IcoMoon/icomoon.svg?n47lb#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"],
+  [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    /* speak: never; */
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-ad:before {
+    content: "\e900";
+  }
+  
+  .icon-address-book:before {
+    content: "\e901";
+  }
+  
+  .icon-address-card:before {
+    content: "\e902";
+  }
+  
+  .icon-adjust:before {
+    content: "\e903";
+  }
+  
+ 
+  .icon-address-book1:before {
+    content: "\ecea";
+  }
+  
+  .icon-address-card1:before {
+    content: "\eceb";
+  }
+  .icon-phone:before {
+    content: "\eb84";
+  }
+  
+  .icon-phone-alt:before {
+    content: "\eb85";
+  }
+  
+  .icon-phone-slash:before {
+    content: "\eb86";
+  }
+  
+  .icon-phone-square:before {
+    content: "\eb87";
+  }
+  
+  .icon-phone-square-alt:before {
+    content: "\eb88";
+  }
+  
+  .icon-phone-volume:before {
+    content: "\eb89";
+  }
+  .icon-envelope:before {
+    content: "\ea23";
+  }
+  
+  .icon-envelope-open:before {
+    content: "\ea24";
+  }
+  
+  .icon-envelope-open-text:before {
+    content: "\ea25";
+  }
+  
+  .icon-envelope-square:before {
+    content: "\ea26";
+  }
+  .icon-facebook:before {
+    content: "\ee06";
+  }
+  
+  .icon-facebook-f:before {
+    content: "\ee07";
+  }
+  
+  .icon-facebook-messenger:before {
+    content: "\ee08";
+  }
+  
+  .icon-facebook-square:before {
+    content: "\ee09";
+  }
+  
+  
+  
+  .icon-instagram:before {
+    content: "\ee53";
+  }
+  
+  .icon-instagram-square:before {
+    content: "\ee54";
+  }
+  
+  
+  
+  .icon-js:before {
+    content: "\ee63";
+  }
+  
+  .icon-jsfiddle:before {
+    content: "\ee64";
+  }
+  
+  .icon-js-square:before {
+    content: "\ee65";
+  }
+  
+ 
+  
+  .icon-linkedin:before {
+    content: "\ee72";
+  }
+  
+  .icon-linkedin-in:before {
+    content: "\ee73";
+  }
+  
+  
+  .icon-searchengin:before {
+    content: "\eed3";
+  }
+  
+  
+  .icon-telegram:before {
+    content: "\ef00";
+  }
+  
+  .icon-telegram-plane:before {
+    content: "\ef01";
+  }
+  
+  
+  
+  
+  .icon-twitter:before {
+    content: "\ef0e";
+  }
+  
+  .icon-twitter-square:before {
+    content: "\ef0f";
+  }
+
+  .icon-youtube:before {
+    content: "\ef49";
+  }
+  
+  .icon-youtube-square:before {
+    content: "\ef4a";
+  }
+  .icon-map-marked-alt:before {
+    content: "\eb2a";
+  }
+ 
